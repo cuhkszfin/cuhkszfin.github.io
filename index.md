@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to CUHKSZ Fiannce Brownbag Reading Group
+This webpage is used to record 2022-2023 CUHKSZ SME Finance Brownbag Reading Group schedule. Check the following to find the topic you are interested in and corresponding paper, presentation time and location.
 
-You can use the [editor on GitHub](https://github.com/cuhkszfin/cuhkszfin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Presentation Schedule
+### Topic 1:
+Paper Name Presenter Location [Slides](url)
 
 ```markdown
 Syntax highlighted code block
