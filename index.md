@@ -5,14 +5,23 @@ This webpage is used to record 2022-2023 CUHKSZ SME Finance Brownbag Reading Gro
 
 ## Presentation Schedule
 
-Selecting Directors Using Machine Learning\\ 
-Erel, Stern, Tan, and Weisbach (2021) \\
-Presenter: Chuxuan Fan\\ 
-Location: \\
+Selecting Directors Using Machine Learning 
+
+Erel, Stern, Tan, and Weisbach (2021) 
+
+Presenter: Chuxuan Fan 
+
+Location: 
+
 Slides: [Slides](url)\\
 
-Talent in Distressed Firms: Investigating the Labor Costs of Financial Distress\\
-Baghai, Silva, and Thell (2021)\\
-Presenter: Zhile Liu\\
-Location:\\
-Slides:\\
+
+Talent in Distressed Firms: Investigating the Labor Costs of Financial Distress 
+
+Baghai, Silva, and Thell (2021) 
+
+Presenter: Zhile Liu 
+
+Location: 
+
+Slides: 
