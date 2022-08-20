@@ -35,20 +35,20 @@ Presenter: Yubo Zhang
 Location: 
 
 
-### Presentation 7
+'''### Presentation 7
 Something in the air: Pollution and the demand for health insurance
 
 Chang, Huang, and Wang (2018)
 
 Presenter: Dandan Li
 
-Location: 
+Location: '''
 
-### Presentation 8
+'''### Presentation 8
 Flight to Safety: How Economic Downturns Affect Talent Flows to Startups
 
 Bernstein, Townsend, and Xu (2022)
 
 Presenter: Yuanbo Zhang
 
-Location
+Location'''
