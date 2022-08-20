@@ -22,7 +22,7 @@ Baghai, Silva, and Thell (2021)
 
 Presenter: Zhile Liu 
 
-Location: 
+Location: Zhiren 324
 
 
 ### Presentation 3
@@ -32,23 +32,5 @@ Haddad, Kozak, and Santosh (2020)
 
 Presenter: Yubo Zhang
 
-Location: 
+Location: Zhiren 324
 
-
-'''### Presentation 7
-Something in the air: Pollution and the demand for health insurance
-
-Chang, Huang, and Wang (2018)
-
-Presenter: Dandan Li
-
-Location: '''
-
-'''### Presentation 8
-Flight to Safety: How Economic Downturns Affect Talent Flows to Startups
-
-Bernstein, Townsend, and Xu (2022)
-
-Presenter: Yuanbo Zhang
-
-Location'''
