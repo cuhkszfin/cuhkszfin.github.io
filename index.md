@@ -12,9 +12,8 @@ Erel, Stern, Tan, and Weisbach (2021)
 
 Presenter: Chuxuan Fan 
 
-Location: 
+Location: Zhiren 324
 
-Slides: [Slides](url)
 
 ### Presentation 2
 Talent in Distressed Firms: Investigating the Labor Costs of Financial Distress 
@@ -25,4 +24,31 @@ Presenter: Zhile Liu
 
 Location: 
 
-Slides: 
+
+### Presentation 3
+Factor Timing
+
+Haddad, Kozak, and Santosh (2020)
+
+Presenter: Yubo Zhang
+
+Location: 
+
+
+### Presentation 7
+Something in the air: Pollution and the demand for health insurance
+
+Chang, Huang, and Wang (2018)
+
+Presenter: Dandan Li
+
+Location: 
+
+### Presentation 8
+Flight to Safety: How Economic Downturns Affect Talent Flows to Startups
+
+Bernstein, Townsend, and Xu (2022)
+
+Presenter: Yuanbo Zhang
+
+Location
