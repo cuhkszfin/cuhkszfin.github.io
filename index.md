@@ -1,4 +1,3 @@
-# Welcome to CUHKSZ Fiannce Brownbag Reading Group
 ![cuhkszsme.png](/docs/assets/image/图片1.png)
 
 This webpage is used to record 2022-2023 CUHKSZ SME Finance Brownbag Reading Group schedule. Check the following to find the topic you are interested in and corresponding paper, presentation time and location.
