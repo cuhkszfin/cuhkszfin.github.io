@@ -1,6 +1,4 @@
-# CUHKSZ Finance Reading Group 
-
-![cuhkszsme.png](/docs/assets/image/图片1.png)
+## CUHKSZ Finance Reading Group 
 
 This webpage is used to record 2022-2023 CUHKSZ SME Finance Brownbag Reading Group schedule. Check the following to find the topic you are interested in and corresponding paper, presentation time and location.
 
@@ -35,3 +33,4 @@ Presenter: Yubo Zhang
 
 Location: Zhiren 324
 
+![cuhkszsme.png](/docs/assets/image/20210618-logo反白.png)
