@@ -1,3 +1,4 @@
+
 ## Presentation 1
 
 *Erel, Isil, Léa H. Stern, Chenhao Tan, and Michael S. Weisbach. "Selecting directors using machine learning." The Review of Financial Studies 34, no. 7 (2021): 3226-3264.*
