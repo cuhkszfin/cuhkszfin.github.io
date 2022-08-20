@@ -1,34 +1,28 @@
-This webpage is used to record 2022-2023 CUHKSZ SME Finance Brownbag Reading Group schedule. Check the following to find the topic you are interested in and corresponding paper, presentation time and location.
+# Presentation Schedule
 
-## Presentation Schedule
+## Presentation 1
 
-### Presentation 1
-Selecting Directors Using Machine Learning 
+*Erel, Isil, Léa H. Stern, Chenhao Tan, and Michael S. Weisbach. "Selecting directors using machine learning." The Review of Financial Studies 34, no. 7 (2021): 3226-3264.*
 
-Erel, Stern, Tan, and Weisbach (2021) 
+**Presenter**: Chuxuan Fan 
 
-Presenter: Chuxuan Fan 
-
-Location: Zhiren 324
+**Location**: Zhiren 324
 
 
-### Presentation 2
-Talent in Distressed Firms: Investigating the Labor Costs of Financial Distress 
+## Presentation 2
+*Baghai, Ramin P., Rui C. Silva, Viktor Thell, and Vikrant Vig. "Talent in distressed firms: Investigating the labor costs of financial distress." The Journal of Finance 76, no. 6 (2021): 2907-2961.* 
 
-Baghai, Silva, and Thell (2021) 
+**Presenter**: Zhile Liu 
 
-Presenter: Zhile Liu 
-
-Location: Zhiren 324
+**Location**: Zhiren 324
 
 
-### Presentation 3
-Factor Timing
+## Presentation 3
 
-Haddad, Kozak, and Santosh (2020)
+*Haddad, Valentin, Serhiy Kozak, and Shrihari Santosh. "Factor timing." The Review of Financial Studies 33, no. 5 (2020): 1980-2018.*
 
-Presenter: Yubo Zhang
+**Presenter**: Yubo Zhang
 
-Location: Zhiren 324
+**Location**: Zhiren 324
 
 
