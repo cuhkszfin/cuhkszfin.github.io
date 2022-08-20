@@ -31,4 +31,4 @@ Presenter: Yubo Zhang
 
 Location: Zhiren 324
 
-![cuhkszsme.png](/docs/assets/image/WeChat Image_20220820210437.png)
+
