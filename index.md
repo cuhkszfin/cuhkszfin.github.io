@@ -7,6 +7,8 @@
 
 **Location**: Zhiren 324
 
+**Date & Time**: 12:00 - 1:30 PM, Aug. 26, 2022
+
 
 ## Presentation 2
 *Baghai, Ramin P., Rui C. Silva, Viktor Thell, and Vikrant Vig. "Talent in distressed firms: Investigating the labor costs of financial distress." The Journal of Finance 76, no. 6 (2021): 2907-2961.* 
@@ -14,6 +16,8 @@
 **Presenter**: Zhile Liu 
 
 **Location**: Zhiren 324
+
+**Date & Time**: TBA
 
 
 ## Presentation 3
@@ -23,6 +27,8 @@
 **Presenter**: Yubo Zhang
 
 **Location**: Zhiren 324
+
+**Date & Time**: TBA
 
 
 ## Presentation 4 + 
