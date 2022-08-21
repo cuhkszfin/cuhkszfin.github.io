@@ -5,9 +5,7 @@
 
 **Presenter**: Chuxuan Fan 
 
-**Location**: Zhiren 324
-
-**Date & Time**: 12:00 - 1:30 PM, Aug. 26, 2022
+**Location & Time**: Zhiren 324, 12:00 - 1:30 PM, Aug. 26, 2022
 
 
 ## Presentation 2
@@ -15,9 +13,7 @@
 
 **Presenter**: Zhile Liu 
 
-**Location**: Zhiren 324
-
-**Date & Time**: TBA
+**Location & Time**: Zhiren 324
 
 
 ## Presentation 3
@@ -26,9 +22,7 @@
 
 **Presenter**: Yubo Zhang
 
-**Location**: Zhiren 324
-
-**Date & Time**: TBA
+**Location & Time**: Zhiren 324
 
 
 ## Presentation 4 + 
