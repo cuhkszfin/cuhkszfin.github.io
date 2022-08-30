@@ -13,7 +13,7 @@
 
 **Presenter**: Zhile Liu 
 
-**Location & Time**: Zhiren 324
+**Location & Time**: Zhiren 324, 12:00 - 1:10 PM, Sept. 2, 2022
 
 
 ## Presentation 3
