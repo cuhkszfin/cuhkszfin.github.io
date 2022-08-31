@@ -25,7 +25,41 @@
 **Location & Time**: Zhiren 324
 
 
-## Presentation 4 + 
+## Presentation 4
 
-TBA
+*Pástor, Ľuboš, Robert F. Stambaugh, and Lucian A. Taylor. "Dissecting green returns." Journal of Financial Economics 146.2 (2022): 403-424.*
 
+**Presenter**: Yuzhe Zhang
+
+**Location & Time**: Zhiren 324
+
+## Presentation 5
+
+*Ben-David, Itzhak, et al. Competition for Attention in the ETF Space. No. w28369. National Bureau of Economic Research, 2021*
+**Presenter**: Hao Sun
+
+**Location & Time**: Zhiren 324
+
+## Presentation 6
+
+*Doerr, Sebastian, et al. "Financial crises and political radicalization: How failing banks paved Hitler's path to power." Journal of Finance, Forthcoming (2021).*
+
+**Presenter**: Maobin Xu
+
+**Location & Time**: Zhiren 324
+
+## Presentation 7
+
+*Chang, Tom Y., Wei Huang, and Yongxiang Wang. "Something in the air: Pollution and the demand for health insurance." The Review of Economic Studies 85.3 (2018): 1609-1634.*
+
+**Presenter**: Dandan Li
+
+**Location & Time**: Zhiren 324
+
+## Presentation 8
+
+*Hegde, Deepak, Alexander Ljungqvist, and Manav Raj. "Quick or broad patents? Evidence from US startups." The Review of Financial Studies 35.6 (2022): 2705-2742.*
+
+**Presenter**: Xiangqian Huang
+
+**Location & Time**: Zhiren 324
