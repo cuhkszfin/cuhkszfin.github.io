@@ -36,6 +36,7 @@
 ## Presentation 5
 
 *Ben-David, Itzhak, et al. Competition for Attention in the ETF Space. No. w28369. National Bureau of Economic Research, 2021*
+
 **Presenter**: Hao Sun
 
 **Location & Time**: Zhiren 324
